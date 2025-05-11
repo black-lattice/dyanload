@@ -1,5 +1,1 @@
-# Vue 3 + Vite
-
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+### 这是一个利用 vue3-sfc-loader 实现远程加载 vue 组件的 demo，同时通过动态路由就可以添加，动态获取路由对应的组件信息，然后加载对应组件并渲染后。就实现了快速创建页面，而不用更改和发布本应用的能力。
